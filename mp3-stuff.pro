@@ -11,3 +11,4 @@ HEADERS += \
     src/mp3file.h \
     src/datafile.h
 
+QMAKE_CXXFLAGS += -std=c++0x
